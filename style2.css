@@ -1,0 +1,40 @@
+header{
+    display: flex;
+    height: 80px;
+   justify-content: center;
+   background-color: #45a1ff;
+   color: #fff;
+   font: bold;
+   align-items: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+
+footer{
+  
+    display: flex;
+    justify-content: center;
+    background-color: #45a1ff;
+    color: #fff;
+    height: 60px;
+    /* margin: 600px; */
+
+}
+fieldset{
+    border: #fff;
+}
+input{
+    padding: 15px 100px;
+    margin: 10px 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    font-style: inherit;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:x-large;
+}
+input:hover {
+    opacity: 2;
+}

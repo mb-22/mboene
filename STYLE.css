@@ -1,0 +1,35 @@
+body{
+
+}
+header{
+    display: flex;
+     height: 80px;
+    justify-content: center;
+    background-color: #45a1ff;
+    color: #fff;
+    font: bold;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    /* padding-left: 90px;  */
+}
+
+
+footer{
+  
+    display: flex;
+    justify-content: center;
+    background-color: #45a1ff;
+    color: #fff;
+    /* margin-bottom: auto; */
+    /* margin-top: 320px; */
+    /* margin: 600px; */
+
+}
+fieldset{
+    background-color: #45a1ff;
+    margin-right: 1400px;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 40px; */
+}
